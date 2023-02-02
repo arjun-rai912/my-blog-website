@@ -20,7 +20,7 @@ This project is a web interface built with React components, a Node.js server, a
 
 * React: A JavaScript library for building user interfaces
 * Node.js: A JavaScript runtime for server-side scripting
-* Node.js: A JavaScript runtime for server-side scripting
+* Express: back end web application framework for building RESTful APIs
 * Firebase Auth: A user authentication service provided by Google
 
 ## Features
